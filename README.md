@@ -1,2 +1,2 @@
 # ProjetoFinal_Coorganicas
-Projeto desenvolvido no Code XP, que cria um site com diversas funcionalidades, utilizando HTML e CSS, C #, SQL Server e React js
+Projeto proposto pela empresa Linx e foi desenvolvido durante o curso Code XP do Senai, Sistema de marmita gourmet utilizando HTML e CSS, C#, SQL Server e React.
